@@ -1,0 +1,45 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Build outputs
+[Bb]uild/
+[Bb]uilds/
+*.apk
+*.aab
+
+# Burst debug output
+*_BurstDebugInformation_DoNotShip/
+
+# Visual Studio / Rider / VS Code generated files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.zip
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Unity crash / temporary files
+sysinfo.txt
+crashlytics-build.properties
+
+# Recovery / temporary backups
+Assets/_Recovery/
