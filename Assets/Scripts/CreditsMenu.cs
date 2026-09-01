@@ -9,10 +9,8 @@ public class CreditsMenu : MonoBehaviour
     {
         clickAudio.Play();
 
-        // Hide the credits immediately
         creditsCanvas.enabled = false;
 
-        // Destroy after sound finishes
         Destroy(gameObject, clickAudio.clip.length);
     }
 }
